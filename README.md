@@ -8,6 +8,7 @@ Features:
 Instrument Definition: Utilizes a modified pluck instrument to create a piano-like sound.
 Score Events: Represents a Mozart-inspired melody with varying pitches, durations, and amplitudes.
 CsoundQt Integration: Developed using the CsoundQt IDE for an interactive and visual composition experience.
+
 How to Explore:
 Clone the repository to your local machine.
 Open the Csound script in the CsoundQt IDE.
